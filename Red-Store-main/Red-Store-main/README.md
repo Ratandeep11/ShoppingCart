@@ -1,4 +1,3 @@
-<h1>Razer</h1>
 
 Deployed Link -: https://thriving-conkies-e382ef.netlify.app
 
